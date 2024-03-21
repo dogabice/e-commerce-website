@@ -1,0 +1,24 @@
+
+.navbar-brand {
+    color: #08755c;
+    font-size: 50px;
+}
+
+.nav-link {/* Navbar link metin rengi */
+    color: #08755c !important; 
+    font-size: 20px;
+    margin: 0px 40px;
+    text-decoration: underline;
+}
+
+
+.btn {
+    border-radius: 20px; 
+}
+
+
+.btn:hover {
+    background-color: #d80960;
+    border-color: #d80960; 
+    color: #ffffff; 
+}
